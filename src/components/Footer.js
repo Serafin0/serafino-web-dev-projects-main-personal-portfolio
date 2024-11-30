@@ -20,7 +20,9 @@ export const Footer = () => {
               <a href="https://www.facebook.com/profile.php?id=100073323031085" target="_blank" rel="noopener noreferrer"><img src={navIcon2} alt="Icon" /></a>
               <a href="https://www.instagram.com/seropamp/" target="_blank" rel="noopener noreferrer"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p>Copyright 2024. All Rights Reserved</p>
+            <p>Phone Number : 514-261-9041</p>
+            <p>Email Address : serafino.pampena@gmail.com</p>
+
           </Col>
         </Row>
       </Container>
