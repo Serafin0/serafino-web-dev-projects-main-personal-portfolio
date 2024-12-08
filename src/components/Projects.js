@@ -15,7 +15,7 @@ export const Projects = () => {
       title: "Disney Plus Clone",
       description: "Front End Development",
       imgUrl: projImg4,
-      url: "https://disney-plus-clone-five-eta.vercel.app"
+      url: "https://github.com/Serafin0/serafino-web-dev-projects-main-personal-portfolio"
     },
   ];
 
